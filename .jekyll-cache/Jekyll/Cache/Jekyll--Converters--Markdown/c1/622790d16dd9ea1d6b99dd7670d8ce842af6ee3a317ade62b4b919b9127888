@@ -1,0 +1,86 @@
+I"I<h1 id="web应用软件开发实训---第二次作业---开发一个静态网站">WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站</h1>
+
+<h2 id="一实验目的">一、实验目的</h2>
+
+<p>巩固所学内容：</p>
+
+<ul>
+  <li>Linux命令行基本应用。</li>
+  <li>Nginx基本使用。</li>
+  <li>Markdown基本语法。</li>
+  <li>Github基本应用。</li>
+  <li>Git命令行基本操作。</li>
+  <li>Github Pages基本应用。</li>
+  <li>Jekyll网站开发基础。</li>
+  <li>VSCode基本使用。</li>
+  <li>Jekyll网站开发进阶。</li>
+  <li>Web网站基本结构。</li>
+  <li>HTML页面基本结构。</li>
+</ul>
+
+<h2 id="二实验步骤">二、实验步骤</h2>
+
+<ol>
+  <li>在WSL上安装Jekyll。</li>
+  <li>在Windows 10上安装VSCode以及Remote插件，并通过Remote插件连接WSL。</li>
+  <li>在VSCode中，按照讲义里“Jekyll官方文档”的“Step by Step Tutorial”的内容，完成第1-9步。</li>
+  <li>通过“jekyll serve”运行调试网站，并将Markdown练习内容依次以帖子形式发布到网站上。</li>
+  <li>在WSL上安装nginx。</li>
+  <li>通过“jekyll build”编译网站，并将编译得到的 <code class="language-plaintext highlighter-rouge">_site</code> 目录部署到 nginx上，并检查内容是否正确。</li>
+  <li>将网站源代码push到Github.com网站，并通过Github.io网站检查Jekyll代码是否被正确编译。</li>
+  <li><strong>可选，不加分</strong> 如果你购买了域名，则将域名通过CNAME记录指向Github。</li>
+  <li><strong>可选，不加分</strong> 如果你购买了服务器，则将域名通过A记录指向你的服务器。</li>
+</ol>
+
+<h2 id="三实验要求">三、实验要求</h2>
+
+<ol>
+  <li>可以小组讨论和交流，组员之间可以互相帮助。</li>
+  <li>每个同学自己独立完成本实验。</li>
+  <li>以Markdown编写实验报告，并作为一篇帖子发布在你的网站上。
+（注意保护隐私，不要把你或其他同学的个人信息写到报告里，例如姓名、学号等）</li>
+</ol>
+
+<h2 id="四实验结果提交">四、实验结果提交</h2>
+
+<h3 id="一提交电子版">（一）提交电子版</h3>
+
+<ul>
+  <li>请发送到邮箱：hukuang@ynu.edu.cn。</li>
+  <li>邮件标题为：“WEB应用软件开发实训-第二次作业-班级-学号-姓名。</li>
+  <li>邮件正文为：“WEB应用软件开发实训-第二次作业”，学院、班级、学号、姓名，实验报告（帖子）的网址。</li>
+</ul>
+
+<h3 id="二提交纸质版">（二）提交纸质版</h3>
+
+<ul>
+  <li>请打印本次作业，在第一页（封面）上，<strong>手写</strong>学院、班级、学号、姓名。</li>
+  <li>同时，请将第一次作业也打印出来一起提交，并在背面空白处写上“WEB应用软件开发实训-第一次作业”，学院、班级、学号、姓名。</li>
+</ul>
+
+<h3 id="三时间要求">（三）时间要求</h3>
+
+<ul>
+  <li>4月28日上课时提交两次作业的纸质版。</li>
+  <li>并在此之前提交第二次作业的电子版。</li>
+</ul>
+
+<h2 id="2-图片与链接">2. 图片与链接</h2>
+
+<p>图片:
+<img src="https://i.loli.net/2021/05/07/5TZnQFhL1GIUzSf.png" alt="image.png" />
+<img src="https://i.loli.net/2021/05/07/LyGqVzNjXwDTYBl.png" alt="image.png" />
+<img src="https://i.loli.net/2021/05/07/KQF8Ot9mS6uJRlX.png" alt="image.png" />
+<img src="https://i.loli.net/2021/05/07/Y1qw5oUaL62Jrvu.png" alt="image.png" />
+<img src="https://i.loli.net/2021/05/07/l6krCdcMXpwUbxY.png" alt="image.png" />
+<img src="https://i.loli.net/2021/05/07/eEI2NJW45mB9FXK.png" alt="image.png" /></p>
+
+<h2 id="三实验过程">三、实验过程</h2>
+<p>根据资料进行操作：创建根目录，建立文件，设置标签，开头，内容，导航等，编写自己的博客，将vs code上的内容
+上传到github上，建立自己的静态网站。</p>
+
+<h2 id="四总结">四、总结</h2>
+<p>在过程中，vscode中markdown图片代码放到blog上没有显示图片，只作为文字输出显示源代码，后来在runnoob上发现是
+markdown的格式不对，经修改，图片成功显示。
+```</p>
+:ET
