@@ -1,4 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-04-17T18:40:54+08:00</updated><id>/feed.xml</id><entry><title type="html">Kiwifruit</title><link href="/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00+08:00</published><updated>2018-08-22T00:00:00+08:00</updated><id>/2018/08/22/kiwifruit</id><content type="html" xml:base="/2018/08/22/kiwifruit.html">&lt;p&gt;Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-05-07T13:22:04+08:00</updated><id>/feed.xml</id><entry><title type="html">Ab</title><link href="/2021/04/25/ab.html" rel="alternate" type="text/html" title="Ab" /><published>2021-04-25T00:00:00+08:00</published><updated>2021-04-25T00:00:00+08:00</updated><id>/2021/04/25/ab</id><content type="html" xml:base="/2021/04/25/ab.html">&lt;h1 id=&quot;一级标题&quot;&gt;一级标题&lt;/h1&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;## 二级标题&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&quot;二级标题&quot;&gt;二级标题&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;### 三级标题&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&quot;三级标题&quot;&gt;三级标题&lt;/h3&gt;
+
+&lt;p&gt;依次类推，总共六级标题，建议在#号后加一个空格，这是最标准的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Markdown&lt;/code&gt;语法。&lt;/p&gt;
+
+&lt;p&gt;字前加 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1. 2. 3.&lt;/code&gt; 注意：符号要和文字之间加上一个空格。&lt;/p&gt;
+
+&lt;h4 id=&quot;无序列表&quot;&gt;无序列表&lt;/h4&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;* 苹果&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;* 香蕉&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;* 梨&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;苹果&lt;/li&gt;
+  &lt;li&gt;香蕉&lt;/li&gt;
+  &lt;li&gt;梨&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>me</name></author><summary type="html">一级标题</summary></entry><entry><title type="html">Webzuoye</title><link href="/2021/04/25/webzuoye.html" rel="alternate" type="text/html" title="Webzuoye" /><published>2021-04-25T00:00:00+08:00</published><updated>2021-04-25T00:00:00+08:00</updated><id>/2021/04/25/webzuoye</id><content type="html" xml:base="/2021/04/25/webzuoye.html">&lt;h1 id=&quot;web应用软件开发实训---第二次作业---开发一个静态网站&quot;&gt;WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站&lt;/h1&gt;
+
+&lt;h2 id=&quot;一实验目的&quot;&gt;一、实验目的&lt;/h2&gt;
+
+&lt;p&gt;巩固所学内容：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linux命令行基本应用。&lt;/li&gt;
+  &lt;li&gt;Nginx基本使用。&lt;/li&gt;
+  &lt;li&gt;Markdown基本语法。&lt;/li&gt;
+  &lt;li&gt;Github基本应用。&lt;/li&gt;
+  &lt;li&gt;Git命令行基本操作。&lt;/li&gt;
+  &lt;li&gt;Github Pages基本应用。&lt;/li&gt;
+  &lt;li&gt;Jekyll网站开发基础。&lt;/li&gt;
+  &lt;li&gt;VSCode基本使用。&lt;/li&gt;
+  &lt;li&gt;Jekyll网站开发进阶。&lt;/li&gt;
+  &lt;li&gt;Web网站基本结构。&lt;/li&gt;
+  &lt;li&gt;HTML页面基本结构。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;二实验步骤&quot;&gt;二、实验步骤&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;在WSL上安装Jekyll。&lt;/li&gt;
+  &lt;li&gt;在Windows 10上安装VSCode以及Remote插件，并通过Remote插件连接WSL。&lt;/li&gt;
+  &lt;li&gt;在VSCode中，按照讲义里“Jekyll官方文档”的“Step by Step Tutorial”的内容，完成第1-9步。&lt;/li&gt;
+  &lt;li&gt;通过“jekyll serve”运行调试网站，并将Markdown练习内容依次以帖子形式发布到网站上。&lt;/li&gt;
+  &lt;li&gt;在WSL上安装nginx。&lt;/li&gt;
+  &lt;li&gt;通过“jekyll build”编译网站，并将编译得到的 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_site&lt;/code&gt; 目录部署到 nginx上，并检查内容是否正确。&lt;/li&gt;
+  &lt;li&gt;将网站源代码push到Github.com网站，并通过Github.io网站检查Jekyll代码是否被正确编译。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;可选，不加分&lt;/strong&gt; 如果你购买了域名，则将域名通过CNAME记录指向Github。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;可选，不加分&lt;/strong&gt; 如果你购买了服务器，则将域名通过A记录指向你的服务器。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;三实验要求&quot;&gt;三、实验要求&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;可以小组讨论和交流，组员之间可以互相帮助。&lt;/li&gt;
+  &lt;li&gt;每个同学自己独立完成本实验。&lt;/li&gt;
+  &lt;li&gt;以Markdown编写实验报告，并作为一篇帖子发布在你的网站上。
+（注意保护隐私，不要把你或其他同学的个人信息写到报告里，例如姓名、学号等）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;四实验结果提交&quot;&gt;四、实验结果提交&lt;/h2&gt;
+
+&lt;h3 id=&quot;一提交电子版&quot;&gt;（一）提交电子版&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;请发送到邮箱：hukuang@ynu.edu.cn。&lt;/li&gt;
+  &lt;li&gt;邮件标题为：“WEB应用软件开发实训-第二次作业-班级-学号-姓名。&lt;/li&gt;
+  &lt;li&gt;邮件正文为：“WEB应用软件开发实训-第二次作业”，学院、班级、学号、姓名，实验报告（帖子）的网址。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;二提交纸质版&quot;&gt;（二）提交纸质版&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;请打印本次作业，在第一页（封面）上，&lt;strong&gt;手写&lt;/strong&gt;学院、班级、学号、姓名。&lt;/li&gt;
+  &lt;li&gt;同时，请将第一次作业也打印出来一起提交，并在背面空白处写上“WEB应用软件开发实训-第一次作业”，学院、班级、学号、姓名。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;三时间要求&quot;&gt;（三）时间要求&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;4月28日上课时提交两次作业的纸质版。&lt;/li&gt;
+  &lt;li&gt;并在此之前提交第二次作业的电子版。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2-图片与链接&quot;&gt;2. 图片与链接&lt;/h2&gt;
+
+&lt;p&gt;图片:
+&lt;img src=&quot;https://i.loli.net/2021/05/07/5TZnQFhL1GIUzSf.png&quot; alt=&quot;image.png&quot; /&gt;
+&lt;img src=&quot;https://i.loli.net/2021/05/07/LyGqVzNjXwDTYBl.png&quot; alt=&quot;image.png&quot; /&gt;
+&lt;img src=&quot;https://i.loli.net/2021/05/07/KQF8Ot9mS6uJRlX.png&quot; alt=&quot;image.png&quot; /&gt;
+&lt;img src=&quot;https://i.loli.net/2021/05/07/Y1qw5oUaL62Jrvu.png&quot; alt=&quot;image.png&quot; /&gt;
+&lt;img src=&quot;https://i.loli.net/2021/05/07/l6krCdcMXpwUbxY.png&quot; alt=&quot;image.png&quot; /&gt;
+&lt;img src=&quot;https://i.loli.net/2021/05/07/eEI2NJW45mB9FXK.png&quot; alt=&quot;image.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;三实验过程&quot;&gt;三、实验过程&lt;/h2&gt;
+&lt;p&gt;根据资料进行操作：创建根目录，建立文件，设置标签，开头，内容，导航等，编写自己的博客，将vs code上的内容
+上传到github上，建立自己的静态网站。&lt;/p&gt;
+
+&lt;h2 id=&quot;四总结&quot;&gt;四、总结&lt;/h2&gt;
+&lt;p&gt;在过程中，vscode中markdown图片代码放到blog上没有显示图片，只作为文字输出显示源代码，后来在runnoob上发现是
+markdown的格式不对，经修改，图片成功显示。
+```&lt;/p&gt;</content><author><name>me</name></author><summary type="html">WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站</summary></entry><entry><title type="html">Kiwifruit</title><link href="/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00+08:00</published><updated>2018-08-22T00:00:00+08:00</updated><id>/2018/08/22/kiwifruit</id><content type="html" xml:base="/2018/08/22/kiwifruit.html">&lt;p&gt;Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
 berry of several species of woody vines in the genus Actinidia.&lt;/p&gt;
 
 &lt;p&gt;The most common cultivar group of kiwifruit is oval, about the size of a large
